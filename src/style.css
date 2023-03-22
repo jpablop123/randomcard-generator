@@ -57,3 +57,7 @@ body {
 .diamond::after {
   content: "\2666";
 }
+
+.heart {
+  color: red;
+}
